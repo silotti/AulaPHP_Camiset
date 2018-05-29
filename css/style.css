@@ -1,0 +1,23 @@
+.altlogin {height: 300px;}
+.altcentro {height: 500px;}
+.altcab {height: 85px;}
+.altroda {height: 50px;}
+.corcab {background-color: #ffffff;}
+.coroda {background-color: #c5c5c5;}
+.corcoldir {background-color: #cccccc;}
+.corcolesq {background-color: #cccccc;}
+.corfundologo {background-color: #ffffff;}
+.logotam {height:85px; width:180;}
+.hometam {height:450px; width:300;}
+.suplogin {padding-top: 5px;}
+.textoal {position: absolute; top: 40%; left:45%;}
+.copyright{
+	width: 100%;
+	height: 50px;
+	text-align: center;
+	background: #5E87A3;
+	color: #ffffff;
+	float: none;
+	padding: 10px;
+}
+

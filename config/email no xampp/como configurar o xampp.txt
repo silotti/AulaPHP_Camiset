@@ -1,0 +1,5 @@
+copiar o arquivo php.ini na pasta
+c:\xampp\php\php.ini
+
+copiar o arquivo sendmail.ini na pasta
+c:\xampp\sendmail\sendmail.ini
